@@ -1,4 +1,4 @@
-                                                          CaloriGo – Smart Diet & Food Delivery Website
+                                             CaloriGo – Smart Diet & Food Delivery Website
 
 Overview:
 
