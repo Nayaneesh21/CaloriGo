@@ -27,6 +27,6 @@ Technologies Used:
 
 .Database: postgresql
 
-.Frameworks & Tools: Hibernate (for ORM), Apache Tomcat (for deployment).
+.Frameworks & Tools: Hibernate (for ORM), Apache Tomcat (for deployment),SpringBoot.
 
 
