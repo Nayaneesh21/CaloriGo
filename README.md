@@ -30,7 +30,16 @@ Technologies Used:
 .Frameworks & Tools: Hibernate (for ORM), Apache Tomcat (for deployment),SpringBoot.
 
 
-
+Website:
 
 ![image](https://github.com/user-attachments/assets/fe5018e5-6774-4013-8e1f-1efe0ec08261)
+
+
+![image](https://github.com/user-attachments/assets/e3b5884b-5997-4f4a-ade3-1a52912f294b)
+
+
+![image](https://github.com/user-attachments/assets/65cabd19-1fa1-4f20-b88c-b83cff6984c8)
+
+
+
 
